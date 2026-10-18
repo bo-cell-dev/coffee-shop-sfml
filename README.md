@@ -4,7 +4,7 @@ A 2D arcade clicker game developed in C++ using the SFML 3 framework.
 
 Originally written as a monolithic script inside a single file, I completely refactored the codebase to follow clean software architecture patterns and strict Object-Oriented Programming (OOP) principles.
 
-<img width="1920" height="1080" alt="coffee_game" src="https://github.com/user-attachments/assets/d52208e2-99af-4a7f-98c1-9821e3e9a8d8" />
+<img width="1280" height="720" alt="cg" src="https://github.com/user-attachments/assets/0d3dc672-2ec4-4a0f-b1cf-21eb7ee7680a" />
 
 # Architecture & Technical Highlights
 - Separation of Concerns: Decoupled the monolithic logic into specialized execution layers: `Game` (engine lifecycle & window management), `GameManager` (gameplay state, mediator & interaction handling), `Menu` (item management), and `UI` (screen rendering overlay).
